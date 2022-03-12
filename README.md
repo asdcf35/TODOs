@@ -21,13 +21,13 @@ Further information and examples, check [here](https://developers.google.com/goo
 ### Install
 
 ```
-$ git clone git@github.com:CarolHsu/TODOs.git
-$ cd todoList
-$ npm install
-$ cd client npm install
-$ yarn build
-$ cd ..
-$ node build_token.js
-$ npm start
+git clone git@github.com:CarolHsu/TODOs.git
+cd todoList
+npm install
+cd client npm install
+yarn build
+cd ..
+node build_token.js
+npm start
 ```
 Then you can access into [http://localhost:3000](http://localhost:3000) to build your first todo with Google Calendar.
